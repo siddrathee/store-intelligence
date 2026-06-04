@@ -1,0 +1,29 @@
+{
+  "ST1008": {
+    "PURPLLE_MUM_1008_Z01": {
+      "zone_name": "The Face Shop",
+      "zone_type": "SHELF",
+      "is_revenue_zone": "Yes",
+      "polygon": [[320, 130],[451, 131],[321, 220],[453, 226]]
+    },
+    "PURPLLE_MUM_1008_Z02": {
+      "zone_name": "Aqualogica",
+      "zone_type": "SHELF",
+      "is_revenue_zone": "Yes",
+      "polygon": [[927, 129],[1066, 123],[1070, 221],[927, 220]]
+    },
+    "PURPLLE_MUM_1008_Z03": {
+      "zone_name": "Center Island",
+      "zone_type": "PROMO",
+      "is_revenue_zone": "Yes",
+      "polygon": [[927, 129],[1066, 123],[1070, 221],[927, 220]]
+    },
+
+    "PURPLLE_MUM_1008_Z04": {
+      "zone_name": "Billing Queue",
+      "zone_type": "BILLING",
+      "is_revenue_zone": "No",
+      "polygon": [[1281, 274],[1170, 272],[1168, 563],[1301, 560]]
+    }
+  }
+}
