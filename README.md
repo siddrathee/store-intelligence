@@ -46,6 +46,7 @@ The project includes a comprehensive pytest suite ensuring idempotency, schema c
 
 Bash
 python -m pytest tests/
+
 🤖 5. Architecture & Documentation
 The following Markdown documents in the repository contain detailed architectural rationale:
 
